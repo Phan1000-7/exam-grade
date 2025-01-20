@@ -4,3 +4,6 @@
 [submodule "TinyInfiniTensor"]
 	path = TinyInfiniTensor
 	url = https://github.com/Phan1000-7/TinyInfiniTensor.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/Phan1000-7/learning-lm-rs.git

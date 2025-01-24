@@ -59,6 +59,11 @@
         "thread": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "list": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "optional": "cpp"
     },
+    "cmake.sourceDirectory": "/home/szshen/Study/exam-grading/TinyInfiniTensor",
 }

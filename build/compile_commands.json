@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/allocator.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/allocator.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/allocator.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/data_type.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/data_type.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/data_type.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/graph.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/graph.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/graph.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/op_type.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/op_type.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/op_type.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/operator.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/operator.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/operator.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/runtime.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/runtime.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/runtime.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/tensor.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/tensor.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/core/tensor.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/concat.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/concat.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/concat.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/element_wise.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/element_wise.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/element_wise.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/transpose.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/transpose.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/transpose.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/unary.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/unary.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/kernels/cpu/unary.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/concat.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/concat.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/concat.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/element_wise.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/element_wise.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/element_wise.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/matmul.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/matmul.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/matmul.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/transpose.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/transpose.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/transpose.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/unary.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/unary.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/operators/unary.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/utils/exception.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/utils/exception.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/utils/exception.cc"
+},
+{
+  "directory": "/home/szshen/Study/exam-grading/build",
+  "command": "/usr/bin/g++ -DDEBUG_MODE -DInfiniTensor_EXPORTS -I/home/szshen/Study/exam-grading/TinyInfiniTensor/include  -g -O0 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -g -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/utils/operator_utils.cc.o -c /home/szshen/Study/exam-grading/TinyInfiniTensor/src/utils/operator_utils.cc",
+  "file": "/home/szshen/Study/exam-grading/TinyInfiniTensor/src/utils/operator_utils.cc"
+}
+]

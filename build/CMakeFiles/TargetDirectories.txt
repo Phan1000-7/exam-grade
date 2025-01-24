@@ -1,0 +1,3 @@
+/home/szshen/Study/exam-grading/build/CMakeFiles/InfiniTensor.dir
+/home/szshen/Study/exam-grading/build/CMakeFiles/edit_cache.dir
+/home/szshen/Study/exam-grading/build/CMakeFiles/rebuild_cache.dir
